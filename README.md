@@ -1,4 +1,4 @@
-This project is a tutorial on how to make a Tic Tac Toe App with moves history using React Hooks. The full video of this tutorial can be found on : <a href="https://youtu.be/QjV0M4P61JI">Click Here</a> (Right Click & Open in New Tab)
+This project is a tutorial on how to make a Tic Tac Toe App with moves history using React Hooks. The full video of this tutorial can be found on : <a href="https://youtu.be/1jDG74fXy3k">Click Here</a> (Right Click & Open in New Tab)
 
 ## Demo
 
